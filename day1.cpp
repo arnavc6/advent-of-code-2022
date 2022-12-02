@@ -5,7 +5,7 @@
 #include <string.h>
 
 int main(){
-    FILE *file = fopen("/Users/arnavchokshi/Downloads/day1input.txt", "r");
+    FILE *file = fopen("/Users/arnavchokshi/Downloads/advent-of-code-2022/day1input.txt", "r");
     char mystring[100];
     int max = 0;
     int max2 = 0;
