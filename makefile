@@ -1,5 +1,5 @@
 all:
-	g++ day6.cpp 
+	g++ day7.cpp 
 	./a.out
 clean:
 	rm a.out
